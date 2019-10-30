@@ -26,5 +26,7 @@ Let's stay in touch!
     - [mail](mailto:rupeshwillwin@gmail.com) 
 - Connect on Twitter
     - [@rupeshwitter](https://twitter.com/rupeshwitter)
+- Blog
+    - [Blog](https://rupesh.blog/)
 - Connect on LinkedIn
     - [Rupesh Kumar](https://www.linkedin.com/in/rupeshtech/)
