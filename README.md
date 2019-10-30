@@ -3,8 +3,8 @@
 # AzurePolicy
     
 ## Slides
-[Deck Eduard](https://tomcome)
-[Deck Jan De Vries](https://tomcome)
+- [Deck Eduard](https://tomcome)
+- [Deck Jan De Vries](https://tomcome)
 
 
 ## Microsoft Azure Cloud Links
